@@ -3,7 +3,7 @@ using namespace std;
 int main() 
 { 
 cout<< "owner berwy";
-cout << "Jekaterina Blinova";
+cout << " Jekaterina Blinova";
 
 return 0;
 }
